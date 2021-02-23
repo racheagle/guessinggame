@@ -19,3 +19,4 @@ echo "You got it! :)"
 echo "congratulation"
 echo "==" && ls -1
 echo "Thanks for playing!"
+echo " Hope you enjoyed this guessing game"
