@@ -12,9 +12,10 @@ do
         echo "Too low. :( Please try again!"
     else
         echo "Too high. :( Please try again!"
-    fi
+    if
     guess
 done
 echo "You got it! :)"
+echo "congratulation"
 echo "==" && ls -1
 echo "Thanks for playing!"
